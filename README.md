@@ -1,14 +1,6 @@
 Hi,I'm Rahavi👋
 
-I'm Rahavi from India, currently living in Chennai, I'm a final year student studying undergraduate degree in Computer Science engineering and Data Science at Vels University(Chennai).
-
-🌟 What I Do:
-
-Code Crafter: I enjoy building efficient, elegant, and scalable software. Whether it's a simple script or a complex system, I believe in writing code that not only works but also delights.
-
-Data Whisperer: I thrive on making sense of data. From wrangling messy datasets to building predictive models, I'm passionate about turning raw information into actionable insights.
-
-Tech Explorer: Constantly exploring new technologies and methodologies. I'm always eager to learn, experiment, and grow in the ever-evolving tech landscape.
+AI & Data Science professional with experience in Generative AI, Agentic AI, Azure AI Services, FastAPI, Python, React, and cloud-based application development. Skilled in building AI-powered applications, REST APIs, authentication systems, and multi-agent workflows. Strong understanding of Azure Cloud, LLMs, RAG, Prompt Engineering, and modern software development practices.
 
 💻 Languages & Tools:
 
